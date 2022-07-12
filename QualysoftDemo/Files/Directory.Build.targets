@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/QualysoftDemo/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/QualysoftDemo/Data/**" />
+		<Compile Remove="$(PkgPath)/QualysoftDemo/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/QualysoftDemo/Schemas\**" />
+		<Compile Remove="$(PkgPath)/QualysoftDemo/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/QualysoftDemo/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/QualysoftDemo/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/QualysoftDemo/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/QualysoftDemo/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/QualysoftDemo/Resources/**" />
+		<None Remove="$(PkgPath)/QualysoftDemo/Assemblies/**" />
+		<None Remove="$(PkgPath)/QualysoftDemo/Data/**" />
+		<None Remove="$(PkgPath)/QualysoftDemo/SqlScripts/**" />
+		<None Remove="$(PkgPath)/QualysoftDemo/Schemas/**" />
+		<None Remove="$(PkgPath)/QualysoftDemo/Resources/**" />
+  </ItemGroup>
+</Project>

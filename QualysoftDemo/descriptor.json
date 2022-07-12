@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+    "Name": "QualysoftDemo",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1657628978000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/QualysoftDemo.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

@@ -10,6 +10,9 @@
 			<Item Name="Columns.UsrOfferType.Caption" Value="Offer type" />
 			<Item Name="Columns.UsrPriceEUR.Caption" Value="Price, EUR" />
 			<Item Name="Columns.UsrType.Caption" Value="Type" />
+			<Item Name="EventsProcessSchema.Caption" Value="Realty" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5da980b1a4a8422baf6b3cfd39dfea8d.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5da980b1a4a8422baf6b3cfd39dfea8d.Lanes.Lane_fdfd57f6008044ce80d2b399b5040214.Caption" Value="Lane 1" />
 		</Items>
 	</Group>
 </Resources>

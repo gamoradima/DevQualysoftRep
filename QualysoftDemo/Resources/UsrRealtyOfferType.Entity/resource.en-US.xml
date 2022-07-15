@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty offer type" />
+			<Item Name="Columns.UsrCommissionCoeff.Caption" Value="Commission coeff, from 0 to 1" />
+			<Item Name="Columns.UsrJustInt.Caption" Value="Just integer" />
 		</Items>
 	</Group>
 </Resources>

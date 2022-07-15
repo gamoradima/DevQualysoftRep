@@ -13,8 +13,126 @@
 = MetaData.Schema.EG1.BK8 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
 = MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
 = MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
-= MetaData.Schema.EG1.BK3 []
-= MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.EG1.BK3 {
+  "BL1": "Terrasoft.Core.Process.ProcessSchemaLaneSet",
+  "UId": "5da980b1-a4a8-422b-af6b-3cfd39dfea8d",
+  "A2": "LaneSet_5da980b1a4a8422baf6b3cfd39dfea8d",
+  "A3": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "A4": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "A5": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+  "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
+  "BL8": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "BL9": "EntitySchemaManager",
+  "BM1": 0,
+  "BM4": [
+    {
+      "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
+      "UId": "fdfd57f6-0080-44ce-80d2-b399b5040214",
+      "A2": "Lane_fdfd57f6008044ce80d2b399b5040214",
+      "A3": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "A4": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "A5": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+      "IL2": "5da980b1-a4a8-422b-af6b-3cfd39dfea8d",
+      "BL7": "abcd74b9-5912-414b-82ac-f1aa4dcd554e",
+      "BL8": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "BL9": "EntitySchemaManager",
+      "CD1": [],
+      "CD2": [],
+      "CD4": "5da980b1-a4a8-422b-af6b-3cfd39dfea8d",
+      "CD7": []
+    }
+  ]
+}
+- MetaData.Schema.EG1.BK3.["619c2403-5046-4076-b4ec-5421200d9785"]
+- MetaData.Schema.EG1.BK3.["079c1a2b-96d1-4935-9764-180b73ed11ac"]
+~ MetaData.Schema.EG1.BK3 ["5da980b1-a4a8-422b-af6b-3cfd39dfea8d"]
++ MetaData.Schema.EG1.BK4 {
+  "BL1": "Terrasoft.Core.Process.ProcessSchemaEventSubProcess",
+  "UId": "307032f8-322f-45c1-a125-01e5f233e73b",
+  "A2": "EventSubProcess1_307032f8322f45c1a12501e5f233e73b",
+  "A3": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "A4": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "A5": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+  "IL2": "fdfd57f6-0080-44ce-80d2-b399b5040214",
+  "BL3": "50;50",
+  "BL7": "0824af03-1340-47a3-8787-ef542f566992",
+  "BL8": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "BL9": "EntitySchemaManager",
+  "BN1": true,
+  "BN2": "300;300",
+  "BP2": [],
+  "CK1": true,
+  "CK2": [
+    {
+      "BL1": "Terrasoft.Core.Process.ProcessSchemaStartMessageEvent",
+      "UId": "deca10cc-3c30-4a46-9a66-e0b68f6e7035",
+      "A2": "StartMessage1_deca10cc3c304a469a66e0b68f6e7035",
+      "A3": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "A4": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "A5": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+      "IL2": "307032f8-322f-45c1-a125-01e5f233e73b",
+      "BL3": "20;135",
+      "BL7": "429178f5-d44a-40d6-8b74-e72cad04ee73",
+      "BL8": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "BL9": "EntitySchemaManager",
+      "BN2": "31;31",
+      "FC1": [],
+      "ED1": false,
+      "CJ1": "UsrRealtyInserting"
+    },
+    {
+      "BL1": "Terrasoft.Core.Process.ProcessSchemaScriptTask",
+      "UId": "e9814117-bfd4-491e-9b9b-ce9188b4e6d8",
+      "A2": "ScriptTask1_e9814117bfd4491e9b9bce9188b4e6d8",
+      "A3": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "A4": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "A5": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+      "IL2": "307032f8-322f-45c1-a125-01e5f233e73b",
+      "BL3": "116;123",
+      "BL7": "0e490dda-e140-4441-b600-6f5c64d024df",
+      "BL8": "229c8b19-abe1-4265-969e-4eb72081734a",
+      "BL9": "EntitySchemaManager",
+      "BN2": "69;55",
+      "BP2": [],
+      "CL2": "FFFFFFFF",
+      "CH1": "string name = Entity.GetTypedColumnValue<string>(\"UsrName\");\nstring comment = \"Auto added comment by embedded process for '\" + name + \"' realty record.\";\nEntity.SetColumnValue(\"UsrComment\", comment);\n\nreturn true;",
+      "CH2": true
+    }
+  ],
+  "CK3": []
+}
++ MetaData.Schema.EG1.BK4 {
+  "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+  "UId": "bcfb5c71-27d6-4a50-8d39-112ce9bbc125",
+  "A2": "SequenceFlow1_bcfb5c7127d64a508d39112ce9bbc125",
+  "A3": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "A4": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "A5": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+  "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
+  "BL8": "229c8b19-abe1-4265-969e-4eb72081734a",
+  "BL9": "EntitySchemaManager",
+  "CI1": "deca10cc-3c30-4a46-9a66-e0b68f6e7035",
+  "CI2": "e9814117-bfd4-491e-9b9b-ce9188b4e6d8",
+  "CI3": "null",
+  "CI5": "FF939598",
+  "CI6": 1,
+  "CI11": "101;201",
+  "CI12": "166;201"
+}
+- MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"]
+- MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"]
+- MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"]
+- MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"]
+- MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"]
+- MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"]
+- MetaData.Schema.EG1.BK4.["db2f2393-5d29-47cf-a756-8e26392d342f"]
+- MetaData.Schema.EG1.BK4.["60ca0a5b-c2b5-4ee3-acd8-f25e9e91ec44"]
+- MetaData.Schema.EG1.BK4.["7feb971a-3b75-486d-bb0b-92352f82a420"]
+- MetaData.Schema.EG1.BK4.["2f317c63-b9de-4594-befc-1e8413c1ddfe"]
+- MetaData.Schema.EG1.BK4.["8a5a0739-a2a3-4581-9476-2909c2e98c39"]
+- MetaData.Schema.EG1.BK4.["a53d2c03-849b-47b6-9032-066c63d26056"]
+- MetaData.Schema.EG1.BK4.["76ca325d-c9c6-4992-b7d6-11b890506ae3"]
+~ MetaData.Schema.EG1.BK4 ["307032f8-322f-45c1-a125-01e5f233e73b","bcfb5c71-27d6-4a50-8d39-112ce9bbc125"]
 + MetaData.Schema.EG1.Labels []
 + MetaData.Schema.D4 "9d5dcb2f-5aa9-4234-91b3-f5b0ff259dce"
 - MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
@@ -51,6 +169,10 @@
   "S4": "07f9fdf2-28b2-4a6a-8338-13a56e874d1e",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "93bdcf88-dee2-46ef-8b98-e87ebfa74877"
+  },
   "E17": "UsrTypeId",
   "E18": "UsrTypeName"
 }
@@ -64,6 +186,10 @@
   "S4": "4aa41082-a4bf-4b77-8ce5-00500bc02936",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "102fc8cd-2359-48d2-a936-57cc2128220b"
+  },
   "E17": "UsrOfferTypeId",
   "E18": "UsrOfferTypeName"
 }
@@ -92,10 +218,12 @@
   "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
 }
 ~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","9d5dcb2f-5aa9-4234-91b3-f5b0ff259dce","6ba1db3b-0535-4865-800d-43feb59135e1","f021201e-43ff-4670-975d-69fb9682c9a1","321570be-c026-48c8-aabb-89b2e4f1f31b","23c8d3ea-11c9-49b9-8ae2-f14227bc9659","c978000c-536e-4183-bf2c-a5576a1f484b","09f268bd-95ef-4a77-a5f4-d7bc80c4e200"]
-- MetaData.Schema.EG1.BK29
+= MetaData.Schema.D20.A2 "UsrRealtyEvents"
++ MetaData.Schema.D20.FA7 true
 - MetaData.Schema.EG1.BK30
 - MetaData.Schema.D1
-- MetaData.Schema.D20
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA15
 - MetaData.Schema.B7
 + MetaData.Schema.B7 false
 + MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false

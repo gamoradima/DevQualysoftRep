@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "29e60515-922d-4669-a24b-e4b7132ea4a2",
+    "Name": "UsrHRRequest",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrHRRequest.csproj",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

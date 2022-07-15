@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "2defbd9d-9def-40f8-87ab-5b22b8538e51",
     "Name": "UsrRealty1Page",
-    "ModifiedOnUtc": "\/Date(1657711502000)\/",
+    "ModifiedOnUtc": "\/Date(1657886901000)\/",
     "Parent": {
       "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
       "Name": "BaseModulePageV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Edit page: \"Realty\"",
-    "DependsOn": []
+    "Caption": "Edit page: \"Realty\""
   }
 }

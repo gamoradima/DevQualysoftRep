@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "10b8a71b-4416-4b5f-9b02-85a6dccaead9",
+    "Name": "UsrHRRequest",
+    "ModifiedOnUtc": "\/Date(1635762253000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "HRRequest",
+    "DependsOn": []
+  }
+}

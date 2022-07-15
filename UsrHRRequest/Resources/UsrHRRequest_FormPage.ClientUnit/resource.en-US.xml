@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="HRRequest form page" />
+			<Item Name="LocalizableStrings.Button_hgdac9x_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_sg4ee24_caption.Value" Value="Button (SAVE)" />
+			<Item Name="LocalizableStrings.NumberInput_xtphjtz_label.Value" Value="Some int" />
+		</Items>
+	</Group>
+</Resources>

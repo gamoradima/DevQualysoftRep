@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "d99f80ba-d596-4d91-addb-fdf55a0450ec",
+      "A2": "UsrRealtyListener",
+      "A5": "d05371e5-5ce7-4952-a9d8-e2739a163c1d",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "6ed57939-bf7c-8dda-cfb4-bba478dd2d5d",
+          "A2": "ValueIsTooBigErrorText",
+          "A3": "d99f80ba-d596-4d91-addb-fdf55a0450ec",
+          "A4": "d99f80ba-d596-4d91-addb-fdf55a0450ec",
+          "A5": "d05371e5-5ce7-4952-a9d8-e2739a163c1d"
+        }
+      ],
+      "B3": [],
+      "B6": "853c101e-65ba-5f2a-6f52-6662d6b1460a",
+      "B8": "8.0.2.2446",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

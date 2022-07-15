@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="HRRequest list page" />
+			<Item Name="LocalizableStrings.Button_abr5ifp_caption.Value" Value="MY MENU" />
+			<Item Name="LocalizableStrings.MenuItem_jvx9i95_caption.Value" Value="Show Features!" />
+			<Item Name="LocalizableStrings.MenuItem_navpb3n_caption.Value" Value="Menu item" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

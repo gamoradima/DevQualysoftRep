@@ -1,0 +1,36 @@
+= MetaData.Schema.UId "1e98cfde-4753-482c-8d29-acd8c7a3d707"
+= MetaData.Schema.A2 "UsrHRRequest_ListPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "9b477847-6327-3cd8-1638-324f62e3d420",
+  "A2": "RefreshButtonCaption",
+  "A3": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A4": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A5": "1a2d0ecf-6ed9-462c-b8cf-7297687fb7dc"
+}
++ MetaData.Schema.B2 {
+  "UId": "19374dbb-047f-83c4-7310-7fb3618bbc8f",
+  "A2": "MenuItem_jvx9i95_caption",
+  "A3": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A4": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A5": "55e0c61a-508d-413c-8089-361cd7bfbeef"
+}
++ MetaData.Schema.B2 {
+  "UId": "57ab016a-5279-e94d-887f-c7da50644b75",
+  "A2": "MenuItem_navpb3n_caption",
+  "A3": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A4": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A5": "55e0c61a-508d-413c-8089-361cd7bfbeef"
+}
++ MetaData.Schema.B2 {
+  "UId": "2f718473-0181-7382-ae14-c1a3ae90ec7c",
+  "A2": "Button_abr5ifp_caption",
+  "A3": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A4": "1e98cfde-4753-482c-8d29-acd8c7a3d707",
+  "A5": "55e0c61a-508d-413c-8089-361cd7bfbeef"
+}
+~ MetaData.Schema.B2 ["9b477847-6327-3cd8-1638-324f62e3d420","19374dbb-047f-83c4-7310-7fb3618bbc8f","57ab016a-5279-e94d-887f-c7da50644b75","2f718473-0181-7382-ae14-c1a3ae90ec7c"]
+= MetaData.Schema.B6 "29e60515-922d-4669-a24b-e4b7132ea4a2"
+= MetaData.Schema.HD1 "a5678241-e5e0-f691-b825-84b6039d5fa2"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
